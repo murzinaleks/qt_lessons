@@ -15,6 +15,9 @@ public:
     explicit quadratic(QWidget *parent = nullptr);
     ~quadratic();
 
+private slots:
+    void on_button_calculate_clicked();
+
 private:
     Ui::quadratic *ui;
 };
