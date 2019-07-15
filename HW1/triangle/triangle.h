@@ -15,6 +15,10 @@ public:
     explicit triangle(QWidget *parent = nullptr);
     ~triangle();
 
+private slots:
+
+    void on_button_calculate_clicked();
+
 private:
     Ui::triangle *ui;
 };
