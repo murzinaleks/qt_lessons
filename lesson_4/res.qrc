@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/pp.jpg</file>
+        <file>res/rsa.JPG</file>
+        <file>res/rsa-2.JPG</file>
+    </qresource>
+</RCC>
